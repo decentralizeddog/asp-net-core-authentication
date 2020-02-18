@@ -1,0 +1,13 @@
+D:\Project\aspnet-core-react-registration-login-example\server\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Project\aspnet-core-react-registration-login-example\server\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Project\aspnet-core-react-registration-login-example\server\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Project\aspnet-core-react-registration-login-example\server\bin\Debug\netcoreapp2.0\WebApi.deps.json
+D:\Project\aspnet-core-react-registration-login-example\server\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+D:\Project\aspnet-core-react-registration-login-example\server\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+D:\Project\aspnet-core-react-registration-login-example\server\bin\Debug\netcoreapp2.0\WebApi.dll
+D:\Project\aspnet-core-react-registration-login-example\server\bin\Debug\netcoreapp2.0\WebApi.pdb
+D:\Project\aspnet-core-react-registration-login-example\server\obj\Debug\netcoreapp2.0\WebApi.csprojAssemblyReference.cache
+D:\Project\aspnet-core-react-registration-login-example\server\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+D:\Project\aspnet-core-react-registration-login-example\server\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+D:\Project\aspnet-core-react-registration-login-example\server\obj\Debug\netcoreapp2.0\WebApi.dll
+D:\Project\aspnet-core-react-registration-login-example\server\obj\Debug\netcoreapp2.0\WebApi.pdb
